@@ -1,7 +1,17 @@
+/*
+
+  Potentiometer - A0
+  Buzze = D8
+
+*/
+
+
+
+
 const int trigPin = 9;
 const int echoPin = 10;
 
-long currentTime = 0;
+long = 0;
 
 int distanceOffset = 0;
 
